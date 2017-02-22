@@ -36,18 +36,18 @@ BA | New York Stock Exchange | $152.16 | $152.30 | -0.092%
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
 ExxonMobil | - | 0.2 :thumbsup: | hold | market closed
-ExxonMobil | PNC Financial Services | 0.2 :thumbsup: | hold | market closed
 ExxonMobil | BlackRock | 0.2 :thumbsup: | hold | market closed
 ExxonMobil | State Street Corporation | 0.2 :thumbsup: | hold | market closed
+ExxonMobil | PNC Financial Services | 0.2 :thumbsup: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 XOM | New York Stock Exchange | - | - | 0.000%
-PNC | New York Stock Exchange | - | - | 0.000%
 BLK | New York Stock Exchange | - | - | 0.000%
 STT | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
 
 ##### [12/12/2016 8:26 AM (Monday)](https://twitter.com/realDonaldTrump/status/808301935728230404)
 
@@ -74,18 +74,18 @@ LMT | New York Stock Exchange | $260.47 | $253.25 | 0.000%
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
 ExxonMobil | - | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
 ExxonMobil | BlackRock | 0.5 :thumbsup: | hold | market closed
 ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
 
 *Performance*
 
 Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 XOM | New York Stock Exchange | $90.98 | $92.27 | 0.000%
-PNC | New York Stock Exchange | $114.07 | $114.70 | 0.000%
 BLK | New York Stock Exchange | $390.28 | $392.64 | 0.000%
 STT | New York Stock Exchange | $80.39 | $79.10 | 0.000%
+PNC | New York Stock Exchange | $114.07 | $114.70 | 0.000%
 
 ##### [12/17/2016 4:17 PM (Saturday)](https://twitter.com/realDonaldTrump/status/810232514749075456)
 
