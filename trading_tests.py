@@ -375,7 +375,7 @@ def test_make_order_request_success(trading):
         '<FIXML xmlns="http://www.fixprotocol.org/FIXML-5-0-SP2">'
         '<Order TmInForce="0" Typ="1" Side="1" Acct="%s">'
         '<Instrmt SecTyp="CS" Sym="GM"/>'
-        '<OrdQty Qty="23"/>'
+        '<OrdQty Qty="5"/>'
         '</Order>'
         '</FIXML>' % TRADEKING_ACCOUNT_NUMBER))
 
