@@ -80,16 +80,16 @@ class Twitter:
         self.twitter_listener.stop_queue()
         self.twitter_listener = None
 
-    def tweet(self, companies, tweet):
-        """Posts a tweet listing the companies, their ticker symbols, and a
-        quote of the original tweet.
-        """
-
-        link = self.get_tweet_link(tweet)
-        text = self.make_tweet_text(companies, link)
-
-        self.logs.info("Tweeting: %s" % text)
-        self.twitter_api.update_status(text)
+#    def tweet(self, companies, tweet):
+#        """Posts a tweet listing the companies, their ticker symbols, and a
+#        quote of the original tweet.
+#        """
+#
+#        link = self.get_tweet_link(tweet)
+#        text = self.make_tweet_text(companies, link)
+#
+#        self.logs.info("Tweeting: %s" % text)
+#        self.twitter_api.update_status(text)
 
     def make_tweet_text(self, companies, link):
         """Generates the text for a tweet."""
