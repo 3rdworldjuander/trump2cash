@@ -39,7 +39,7 @@ FIXML_NAMESPACE = "http://www.fixprotocol.org/FIXML-5-0-SP2"
 FIXML_HEADERS = {"Content-Type": "text/xml"}
 
 # The amount of cash in dollars to hold from being spent.
-CASH_HOLD = 1000
+CASH_HOLD = 100
 
 # The delay in seconds for the second leg of a trade.
 ORDER_DELAY_S = 5 * 60
