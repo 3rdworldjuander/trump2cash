@@ -37,8 +37,8 @@ Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
 ExxonMobil | - | 0.2 :thumbsup: | hold | market closed
 ExxonMobil | BlackRock | 0.2 :thumbsup: | hold | market closed
-ExxonMobil | State Street Corporation | 0.2 :thumbsup: | hold | market closed
 ExxonMobil | PNC Financial Services | 0.2 :thumbsup: | hold | market closed
+ExxonMobil | State Street Corporation | 0.2 :thumbsup: | hold | market closed
 
 *Performance*
 
@@ -46,8 +46,8 @@ Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 XOM | New York Stock Exchange | - | - | 0.000%
 BLK | New York Stock Exchange | - | - | 0.000%
-STT | New York Stock Exchange | - | - | 0.000%
 PNC | New York Stock Exchange | - | - | 0.000%
+STT | New York Stock Exchange | - | - | 0.000%
 
 ##### [12/12/2016 8:26 AM (Monday)](https://twitter.com/realDonaldTrump/status/808301935728230404)
 
@@ -75,8 +75,8 @@ Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
 ExxonMobil | - | 0.5 :thumbsup: | hold | market closed
 ExxonMobil | BlackRock | 0.5 :thumbsup: | hold | market closed
-ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
 ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
 
 *Performance*
 
@@ -84,8 +84,8 @@ Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 XOM | New York Stock Exchange | $90.98 | $92.27 | 0.000%
 BLK | New York Stock Exchange | $390.28 | $392.64 | 0.000%
-STT | New York Stock Exchange | $80.39 | $79.10 | 0.000%
 PNC | New York Stock Exchange | $114.07 | $114.70 | 0.000%
+STT | New York Stock Exchange | $80.39 | $79.10 | 0.000%
 
 ##### [12/17/2016 4:17 PM (Saturday)](https://twitter.com/realDonaldTrump/status/810232514749075456)
 
@@ -323,7 +323,7 @@ GM | New York Stock Exchange | $37.09 | $38.28 | 0.000%
 
 Company | Root | Sentiment | Strategy | Reason
 --------|------|-----------|----------|-------
-Rockwell International | - | 0.2 :thumbsup: | hold | market closed
+Rockwell Automation | - | 0.2 :thumbsup: | hold | market closed
 
 *Performance*
 
@@ -431,6 +431,90 @@ Ticker | Exchange | Price @ tweet | Price @ close | Gain
 -------|----------|---------------|---------------|-----
 AET | New York Stock Exchange | - | - | 0.000%
 
+##### [2/17/2017 6:38 AM (Friday)](https://twitter.com/realDonaldTrump/status/832554772318322688)
+
+> Going to Charleston, South Carolina, in order to spend time with Boeing and talk jobs! Look forward to it.
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+Boeing | - | 0.2 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+BA | New York Stock Exchange | - | - | 0.000%
+
+##### [3/6/2017 4:19 PM (Monday)](https://twitter.com/realDonaldTrump/status/838861512999649286)
+
+> 'President Trump Congratulates Exxon Mobil for Job-Creating Investment Program'
+
+> https://t.co/adBzWhtq8S
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+ExxonMobil | - | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | BlackRock | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+XOM | New York Stock Exchange | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+STT | New York Stock Exchange | - | - | 0.000%
+
+##### [3/6/2017 10:49 PM (Monday)](https://twitter.com/realDonaldTrump/status/838959869772328960)
+
+> Buy American &amp; hire American are the principles at the core of my agenda, which is: JOBS, JOBS, JOBS! Thank you @exxonmobil.
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+ExxonMobil | - | 0.4 :thumbsup: | hold | market closed
+ExxonMobil | BlackRock | 0.4 :thumbsup: | hold | market closed
+ExxonMobil | PNC Financial Services | 0.4 :thumbsup: | hold | market closed
+ExxonMobil | State Street Corporation | 0.4 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+XOM | New York Stock Exchange | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+STT | New York Stock Exchange | - | - | 0.000%
+
+##### [3/6/2017 10:50 PM (Monday)](https://twitter.com/realDonaldTrump/status/838960097674002432)
+
+> Thank you to @exxonmobil for your $20 billion investment that is creating more than 45,000 manufacturing &amp; construction jobs in the USA!
+
+*Strategy*
+
+Company | Root | Sentiment | Strategy | Reason
+--------|------|-----------|----------|-------
+ExxonMobil | - | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | BlackRock | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | PNC Financial Services | 0.5 :thumbsup: | hold | market closed
+ExxonMobil | State Street Corporation | 0.5 :thumbsup: | hold | market closed
+
+*Performance*
+
+Ticker | Exchange | Price @ tweet | Price @ close | Gain
+-------|----------|---------------|---------------|-----
+XOM | New York Stock Exchange | - | - | 0.000%
+BLK | New York Stock Exchange | - | - | 0.000%
+PNC | New York Stock Exchange | - | - | 0.000%
+STT | New York Stock Exchange | - | - | 0.000%
+
 ### Fund simulation
 
 This is how an initial investment of $100,000.00 would have grown, including fees of 2 × $4.95 per pair of orders. Bold means that the data was used to trade.
@@ -441,13 +525,13 @@ Time | Trade | Gain | Value | Return | Annualized
 **12/6/2016 8:52 AM** | **BA :thumbsdown:** | -0.092% | $99,899.10 | -0.101% | -
 12/11/2016 10:29 AM | XOM :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
 12/11/2016 10:29 AM | BLK :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
-12/11/2016 10:29 AM | STT :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
 12/11/2016 10:29 AM | PNC :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
+12/11/2016 10:29 AM | STT :thumbsup: | 0.000% | $99,899.10 | -0.101% | -7.104%
 12/12/2016 8:26 AM | LMT :neutral_face: | 0.000% | $99,899.10 | -0.101% | -7.104%
 12/13/2016 6:43 AM | XOM :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
 12/13/2016 6:43 AM | BLK :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
-12/13/2016 6:43 AM | STT :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
 12/13/2016 6:43 AM | PNC :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
+12/13/2016 6:43 AM | STT :thumbsup: | 0.000% | $99,899.10 | -0.101% | -5.956%
 12/17/2016 4:17 PM | FB :thumbsup: | 0.000% | $99,899.10 | -0.101% | -3.294%
 12/22/2016 5:26 PM | LMT :neutral_face: | 0.000% | $99,899.10 | -0.101% | -2.277%
 12/22/2016 5:26 PM | BA :neutral_face: | 0.000% | $99,899.10 | -0.101% | -2.277%
@@ -476,3 +560,16 @@ Time | Trade | Gain | Value | Return | Annualized
 2/11/2017 8:24 AM | LMT :neutral_face: | 0.000% | $102,907.86 | 2.908% | 17.178%
 2/14/2017 5:50 PM | HUM :neutral_face: | 0.000% | $102,907.86 | 2.908% | 16.121%
 2/15/2017 4:34 PM | AET :thumbsdown: | 0.000% | $102,907.86 | 2.908% | 15.877%
+2/17/2017 6:38 AM | BA :thumbsup: | 0.000% | $102,907.86 | 2.908% | 15.640%
+3/6/2017 4:19 PM | XOM :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 4:19 PM | BLK :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 4:19 PM | PNC :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 4:19 PM | STT :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:49 PM | XOM :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:49 PM | BLK :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:49 PM | PNC :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:49 PM | STT :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:50 PM | XOM :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:50 PM | BLK :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:50 PM | PNC :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
+3/6/2017 10:50 PM | STT :thumbsup: | 0.000% | $102,907.86 | 2.908% | 12.327%
